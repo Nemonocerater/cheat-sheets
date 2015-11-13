@@ -8,3 +8,4 @@
 * nerdtree
 ** or other ways of managing multiple files
 * marks - http://vim.wikia.com/wiki/Using_marks
+* advanced movement - http://vim.wikia.com/wiki/Moving_around
