@@ -6,3 +6,4 @@
 * t command
 ** dt -> "blah....blah" -> ""
 * nerdtree
+* marks - http://vim.wikia.com/wiki/Using_marks
