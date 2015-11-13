@@ -1,0 +1,5 @@
+#!/bin/sh
+
+#git fetch git@github.com:JoshuaEstes/CheatSheets.git master
+git subtree pull --prefix external/estes git@github.com:JoshuaEstes/CheatSheets.git master --squash
+
